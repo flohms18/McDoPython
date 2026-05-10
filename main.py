@@ -6,4 +6,4 @@ def EatInOrTakeAway():
         elif EatingLocation == 'Take Away':
             print("Order please")
         else:
-            print("I don't get it")
+            print("I don't get it..")
